@@ -1,9 +1,13 @@
+
+<html><head>
 <style>
 
-background : brown;
 
-
+.body{
+    background: blue;
+}
 </style>
-
-
-
+</head>
+<body>
+</body>
+</html>
